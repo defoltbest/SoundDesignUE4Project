@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{5924c41a-ea26-4e34-a69e-ae4ec77645db}">
+		<property name="name">
+			<value>VovaFmod</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2d0f661f-7045-4c83-bda1-f6efed93da83}</destination>
+		</relationship>
+	</object>
+</objects>

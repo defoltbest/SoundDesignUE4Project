@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="Workspace" id="{889b8b6c-0edf-4e91-a328-cf4a38ea0242}">
+		<property name="builtBanksOutputDirectory">
+			<value>D:/VOVA MUSIC PROJECT UE4/MusicActionRPG/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{2d0f661f-7045-4c83-bda1-f6efed93da83}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{8dedeece-58fb-4ec4-bde2-39a17456dd7b}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{d3a23a7c-e323-41ee-971c-3d57bb74cfc4}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{3a9560e2-7670-4927-9ed2-fb715ab07008}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{c32dc685-f42b-4ea7-bf1c-9e80f6cff28d}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{326d3a67-bfa4-48af-959c-e5e9f51c459e}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{fe976d76-4f8e-4fcb-b5c3-e7e7630f87e1}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{b6e304fd-cc86-4061-a745-b35dbb3ec435}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{928e6934-fd16-4789-8a4e-ff10281d1978}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{6d2350cc-fde7-4740-8541-5f93949ac848}</destination>
+		</relationship>
+	</object>
+</objects>
