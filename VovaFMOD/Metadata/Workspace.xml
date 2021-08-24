@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Workspace" id="{889b8b6c-0edf-4e91-a328-cf4a38ea0242}">
 		<property name="builtBanksOutputDirectory">
-			<value>D:/VOVA MUSIC PROJECT UE4/MusicActionRPG/Content/FMOD</value>
+			<value>../Content/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{2d0f661f-7045-4c83-bda1-f6efed93da83}</destination>
