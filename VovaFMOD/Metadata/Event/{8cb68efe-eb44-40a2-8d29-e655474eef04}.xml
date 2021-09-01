@@ -5,7 +5,7 @@
 			<value>Hero_Potion_Hp</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5924c41a-ea26-4e34-a69e-ae4ec77645db}</destination>
@@ -80,6 +80,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{feac84b4-fce0-448a-84fa-12e0432f0725}">
+		<property name="pitch">
+			<value>12</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{6aa03349-9187-4239-93c0-b6a7a9ad01c3}</destination>
 		</relationship>
@@ -90,7 +93,11 @@
 			<destination>{2141b20f-e8fd-4513-9d41-b391579dccc0}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{d9683876-d572-4dae-b26a-fa14b206ab6e}" />
+	<object class="MultiSound" id="{d9683876-d572-4dae-b26a-fa14b206ab6e}">
+		<relationship name="sounds">
+			<destination>{55af302a-541f-4f20-b176-211a5af03e91}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{3ce28c1c-1251-4c38-84b9-5d2ed54bc2da}">
 		<relationship name="effects">
 			<destination>{8cde8857-9291-425e-b54a-5fdcc40c94f4}</destination>
@@ -117,6 +124,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{919161b7-cda7-47de-bd90-31dc2eba7765}" />
+	<object class="SingleSound" id="{55af302a-541f-4f20-b176-211a5af03e91}">
+		<relationship name="audioFile">
+			<destination>{bb5e7919-ea6e-4b65-b950-5c2edcc0589e}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{8cde8857-9291-425e-b54a-5fdcc40c94f4}" />
 	<object class="MixerBusEffectChain" id="{761b50da-69e4-449c-8bf0-6e2285981d59}">
 		<relationship name="effects">

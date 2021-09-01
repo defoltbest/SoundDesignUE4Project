@@ -5,7 +5,7 @@
 			<value>Hero_DodgeRoll</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5924c41a-ea26-4e34-a69e-ae4ec77645db}</destination>
@@ -90,7 +90,11 @@
 			<destination>{177b4316-0bef-44c8-917c-b082106bba12}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{277e72cb-ddaa-47f8-9374-20628944f94a}" />
+	<object class="MultiSound" id="{277e72cb-ddaa-47f8-9374-20628944f94a}">
+		<relationship name="sounds">
+			<destination>{75ce116b-c35a-4aac-aa20-7834184e0382}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{ca70c81d-17be-4612-8b36-827d66ab2a2a}">
 		<relationship name="effects">
 			<destination>{176e8df9-4586-45b1-b0fd-1c91face0f79}</destination>
@@ -117,6 +121,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{d5f92862-1e56-4ac0-bd4b-28ec04a5b167}" />
+	<object class="SingleSound" id="{75ce116b-c35a-4aac-aa20-7834184e0382}">
+		<relationship name="audioFile">
+			<destination>{b7af0f8c-02fb-4f7a-9e2b-2395e4c38e85}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{176e8df9-4586-45b1-b0fd-1c91face0f79}" />
 	<object class="MixerBusEffectChain" id="{b4431253-67d2-4fe1-8f9e-c412a1f0d210}">
 		<relationship name="effects">

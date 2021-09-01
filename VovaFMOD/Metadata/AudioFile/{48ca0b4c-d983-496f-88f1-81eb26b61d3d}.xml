@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{48ca0b4c-d983-496f-88f1-81eb26b61d3d}">
+		<property name="assetPath">
+			<value>Switches, Button, Turn On And Off SND3991.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.26668750000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fe976d76-4f8e-4fcb-b5c3-e7e7630f87e1}</destination>
+		</relationship>
+	</object>
+</objects>
