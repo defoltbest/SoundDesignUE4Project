@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.01.00">
+<objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c8c1038b-279e-4e92-9aba-8b7cca792d19}">
 		<property name="name">
 			<value>Gameplay_Ambience</value>

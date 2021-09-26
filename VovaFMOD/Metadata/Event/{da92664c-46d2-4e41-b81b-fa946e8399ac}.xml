@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.01.00">
+<objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{da92664c-46d2-4e41-b81b-fa946e8399ac}">
 		<property name="note">
 			<value>надо сделать параметр для бега </value>
 		</property>
 		<property name="name">
-			<value>Hero_Footsteps</value>
+			<value>Hero_Footsteps2222</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>

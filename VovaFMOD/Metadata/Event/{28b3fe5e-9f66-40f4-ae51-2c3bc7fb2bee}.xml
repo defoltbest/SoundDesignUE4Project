@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.01.00">
+<objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{28b3fe5e-9f66-40f4-ae51-2c3bc7fb2bee}">
 		<property name="name">
 			<value>Start_Level</value>
