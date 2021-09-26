@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\GIT Sourses\\SoundDesignUE4Project\\Source\\ActionRPG\\ActionRPG.Build.cs",
+		"C:\\GIT Sourses\\SoundDesignUE4Project\\Source\\ActionRPGLoadingScreen\\ActionRPGLoadingScreen.Build.cs",
+		"C:\\GIT Sourses\\SoundDesignUE4Project\\Source\\ActionRPG.Target.cs",
+		"C:\\GIT Sourses\\SoundDesignUE4Project\\Source\\ActionRPGEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
